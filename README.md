@@ -1,4 +1,4 @@
-# LIRI Bot
+# LIRI Bot - https://github.com/commandergavdog/liri-node-app
 
 ### Overview
 
